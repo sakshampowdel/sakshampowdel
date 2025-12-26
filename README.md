@@ -10,7 +10,7 @@ I usually mess around with ideas in private repos but if I find them interesting
 ### Featured Projects
 
 **[BetterReads](https://betterreads.sakshampowdel.com/)** \
-A modern social media platform for book enthusiasts. Built to replace dated interfaces with a sleek, performant user experience using **React, Node.js, and MongoDB**.
+A modern social media platform for book enthusiasts. Built to replace dated interfaces with a sleek, performant user experience using **React, Spring Boot,** and **Postgres**.
 
 **[News-ETL-Pipeline](https://github.com/sakshampowdel/spark-news-etl-pipeline)** \
 An automated pipeline that scrapes and analyzes US political news trends. Leverages **Python** to provide concise event summaries and data-driven insights.
